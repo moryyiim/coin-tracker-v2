@@ -1,0 +1,20 @@
+.navbar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2rem;
+}
+
+.icon {
+  width: 6rem;
+  height: 6em;
+}
+
+.logo-title {
+  background: -webkit-linear-gradient(30deg, #ec6ead, #34dae6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+  font-size: 32px;
+}
