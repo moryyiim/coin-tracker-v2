@@ -1,4 +1,6 @@
-# LIVE 
+# Crypto Tracker
+
+# Live 
 https://coin-tracker-v2.netlify.app/
 
 # Getting Started with Create React App
