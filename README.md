@@ -1,6 +1,6 @@
 # Crypto Tracker
 
-This app was created using HTML, CSS, React, and Coin-Gecko API.
+This app was created using HTML, CSS, React, and fetches data from the Coin-Gecko API.
 
 # Live 
 https://coin-tracker-v2.netlify.app/
