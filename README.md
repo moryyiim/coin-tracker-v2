@@ -1,4 +1,5 @@
 # Crypto Tracker
+![cointracker](https://user-images.githubusercontent.com/84880692/206594055-e5b5f83e-3a20-4928-9d4d-5c6ca7ebf7d1.png)
 
 This app was created using HTML, CSS, React, and fetches data from the Coin-Gecko API.
 
